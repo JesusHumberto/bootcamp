@@ -1,0 +1,9 @@
+#include <iostream>
+
+int main ()
+{
+ int a, b, c
+ cout<<"Hola";
+return 0;
+system (PAUSE)
+}
